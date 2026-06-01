@@ -152,5 +152,5 @@ Wendel Alexandre Pereira do Nascimento (01800433)
 
 Paulo Adriano Carvalho de Oliveira (0180384)
 
-Cleydson Barbosa da Silva Ramos (01786045)
+Cleydson Barbosa da Silva Lima (01786045)
 
