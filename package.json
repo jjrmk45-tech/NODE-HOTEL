@@ -1,0 +1,13 @@
+{
+  "name": "hotel-node",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de hotel desenvolvido em JavaScript para cadastro de hóspedes, reserva e controle de quartos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
